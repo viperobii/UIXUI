@@ -803,7 +803,7 @@ end
 		local SecondDcsgo = Instance.new("Frame", Simpliness)
 		SecondDcsgo.Name = "second dcsgo"
 		SecondDcsgo.BackgroundColor3 = Color3.fromRGB(16, 16, 16)
-		SecondDcsgo.BackgroundTransparency = 0.7
+		SecondDcsgo.BackgroundTransparency = 0.5
 		SecondDcsgo.Visible = false
 		SecondDcsgo.BorderColor3 = Color3.fromRGB(0, 0, 0)
 		SecondDcsgo.BorderSizePixel = 0
